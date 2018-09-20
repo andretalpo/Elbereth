@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "745433680711",
+    "firebase_url": "https://elbereth-9f456.firebaseio.com",
+    "project_id": "elbereth-9f456",
+    "storage_bucket": "elbereth-9f456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745433680711:android:68d0674b48c6125c",
+        "android_client_info": {
+          "package_name": "com.elbereth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745433680711-g67c5na8am2aqbt3ca08ea04c55jv2du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elbereth",
+            "certificate_hash": "5f4371fd88c088c7130742792bff141ffc797f92"
+          }
+        },
+        {
+          "client_id": "745433680711-i1shml04o7chnnh202m95sbr2rl4191h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jWVhVHEnqnlupycePni5B1nCv0NNbj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745433680711-i1shml04o7chnnh202m95sbr2rl4191h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
