@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">elbereth</string>
+    <string name="app_name">Elbereth</string>
 
     <string name="facebook_app_id">269458600342021</string>
     <string name="fb_login_protocol_scheme">fb269458600342021</string>
